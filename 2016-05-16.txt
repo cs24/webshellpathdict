@@ -1,0 +1,9 @@
+/admin/newfile.php
+/ee/admin-92game/ecmseditor/fckeditor/editor/dialog/fck_link/fck_link.php
+/gay/asphxg.asp
+/php.php?eanver=main&path=%2Fhome%2Fftp%2Fx%2Fxuanmeng%2Fwwwroot%2F&Submit=%CC%F8%B5%BD
+/php.php?img=rar
+/uploads/data.asp?Action=EditFile
+/wp-content/themes/Circles/content-wrapper.php
+/wp-content/themes/sketch/404.php
+/wp-content/themes/twentytwelve/404.php?pwd
