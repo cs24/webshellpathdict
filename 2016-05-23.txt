@@ -1,0 +1,7 @@
+/plus/qixi.php?action=shell&dir=.
+/company/list.php
+/company/newfile.php?eanver=left
+/wp-content/themes/sketch/404.php
+/wp-content/themes/twentytwelve/404.php?pwd
+/tool/publish/index.php?login
+/admin/newfile.php
