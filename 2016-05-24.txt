@@ -1,0 +1,2 @@
+/wp-content/themes/sketch/404.php
+/diguo/bdata/xyppe_20160422135255/config.php?login=geturl
